@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## System.out.print("Hello World!!! 👋");
+- Estudiante de Ingenieria en Sistemas Computacionales
+La teoría es cuando se sabe todo, pero nada funciona.
+La práctica es cuando todo funciona, pero no se sabe por qué.
+Yo aplico ambas: Nada funciona y no sé por qué.
 <!--
 **JohnV-1/JohnV-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
